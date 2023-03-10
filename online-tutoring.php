@@ -7,18 +7,18 @@
 
 	<!-- Stunning Header -->
 
-	<div class="stunning-header stunning-header-bg-lightgray">
+	<div class="stunning-header stunning-header-bg-green">
 		<div class="stunning-header-content">
-			<h1 class="stunning-header-title c-dark">Web Development</h1>
+			<h1 class="stunning-header-title">Online Tutoring</h1>
 			<ul class="breadcrumbs">
 				<li class="breadcrumbs-item">
-					<a href="index.html" class="c-gray">Home</a>
+					<a href="index.html">Home</a>
 					<i class="seoicon-right-arrow"></i>
-					<a href="web-development.php" class="c-gray">Web Development</a>
+					<a href="03_services.html">Services</a>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 				<li class="breadcrumbs-item active">
-					<span href="#" class="c-primary">Web Development</span>
+					<span href="#">Online Tutoring</span>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 			</ul>
@@ -54,10 +54,9 @@
 				<img loading="lazy" src="img/mac-book.png" alt="pc">
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-				<h5 class="mb30">We offer Web Development services to a wide array of organisations.</h5>
-				<p>We have a team for your web development needs and a significant amount of experience in this field. We offer a multidimensional service to meet all your web development needs from the development of the website to maintain it. We also assure the timely delivery of the web development solutions you need.  So, what are you waiting for?? 
-				Come and get a quotation now for the service you need. You just have to give us the details of your project and the service you need for getting a solution to your web development needs ASAP.
-
+				<h5 class="mb30">Tutoring is an art that can help any student excel in their respective field.</h5>
+				<p>
+                In our organisation, we offer you online tutoring services. We have a team of doctorates and post-graduates, who have efficient knowledge in their respective subjects. Our online tutoring service aims to cover all your tutoring needs and our expert team ensures that all your learning needs are met. To get our online tutoring services, just share your course details and get the quotation now. 
 				</p>
 			</div>
 		</div>
@@ -69,8 +68,7 @@
 		<div class="row medium-padding120">
 			<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
 				<div class="heading">
-					<h4 class="h1 heading-title">See How Your
-						Website Get Superpowers.</h4>
+					<h4 class="h1 heading-title">See how we help you in getting high-paing job.</h4>
 					<div class="heading-line">
 						<span class="short-line"></span>
 						<span class="long-line"></span>
@@ -78,7 +76,7 @@
 
 					<h5 class="heading-subtitle">Let us help you get your business online and grow it with passion.</h5>
 
-					<p>Our team of professional web developers is the perfect partner for a successful business partnership.
+					<p>Our team of professional digital marketers is the perfect partner for a successful business partnership.
 					</p>
 				</div>
 			</div>
@@ -144,8 +142,9 @@
 
 	<!-- End Contact Form -->
 
+<?php include("includes/essentialpopups.php") ?>
+
 <?php include("includes/footer.php") ?>
 
 
-<?php include("includes/essentialpopups.php") ?>
 

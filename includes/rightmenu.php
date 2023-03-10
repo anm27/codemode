@@ -13,9 +13,7 @@
 			<div class="logo">
 				<a href="index.html" class="full-block-link"></a>
 				<img loading="lazy" src="img/logo-eye.png" alt="Seosight">
-				<div class="logo-text">
-					<div class="logo-title">CodeMode</div>
-				</div>
+				
 			</div>
 
 		</div>

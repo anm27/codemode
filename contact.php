@@ -37,8 +37,8 @@
 							<div class="contacts-item">
 								<img loading="lazy" src="img/contact7.png" alt="phone">
 								<div class="content">
-									<a href="#" class="title">Kolkata, India</a>
-									<p class="sub-title">New Town, Kolkata</p>
+									<a href="#" class="title">Hisar, India</a>
+									<p class="sub-title">Office no. 7, 4th floor, Metropolis mall, Near jindal chowk, Hisar</p>
 								</div>
 							</div>
 						</div>
@@ -47,7 +47,7 @@
 							<div class="contacts-item">
 								<img loading="lazy" src="img/contact8.png" alt="phone">
 								<div class="content">
-									<a href="#" class="title">codemodebharat@gmail.com</a>
+									<a href="#" class="title">globalprobes@gmail.com</a>
 									<p class="sub-title">online support</p>
 								</div>
 							</div>
@@ -57,7 +57,8 @@
 							<div class="contacts-item">
 								<img loading="lazy" src="img/contact9.png" alt="phone">
 								<div class="content">
-									<a href="#" class="title">+91-987-543-7382</a>
+									<a href="#" class="title">+91-946-672-9081</a>
+									<a href="#" class="title">+44-744-879-6501</a>
 									<p class="sub-title">Mon-Fri 9am-6pm</p>
 								</div>
 							</div>
@@ -147,43 +148,6 @@
 	</div>
 
 	<!-- End Contact form -->
-
-	<!-- Subscribe Form -->
-
-	<div class="container-fluid bg-green-color">
-		<div class="row">
-			<div class="container">
-
-				<div class="row">
-
-					<div class="subscribe scrollme">
-
-						<div class="col-lg-6 col-lg-offset-5 col-md-6 col-md-offset-5 col-sm-12 col-xs-12">
-							<h4 class="subscribe-title">Email Newsletters!</h4>
-							<form class="subscribe-form crumina-submit" method="post" data-nonce="crumina-submit-form-nonce" data-type="standard" action="modules/forms/submit.php">
-								<input class="input-standard-grey input-white" name="email" placeholder="Your Email Address" type="email" required>
-								<button class="subscr-btn">subscribe
-									<span class="semicircle--right"></span>
-								</button>
-							</form>
-							<div class="sub-title">Sign up for new Seosignt content, updates, surveys & offers.</div>
-
-						</div>
-
-						<div class="images-block">
-							<img loading="lazy" src="img/subscr-gear.png" alt="gear" class="gear">
-							<img loading="lazy" src="img/subscr1.png" alt="mail" class="mail">
-							<img loading="lazy" src="img/subscr-mailopen.png" alt="mail" class="mail-2">
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<!-- End Subscribe Form -->
-
-</div>
 
 <?php include("includes/essentialpopups.php") ?>
 

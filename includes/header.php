@@ -53,11 +53,11 @@
 		<div class="top-bar-contact">
 
 			<div class="contact-item">
-				987-543-7382
+			+91-946-672-9081
 			</div>
 
 			<div class="contact-item">
-				<a href="#">codemodebharat@gmail.com</a>
+				<a href="#">globalprobes@gmail.com</a>
 			</div>
 
 			<div class="contact-item">
@@ -106,11 +106,9 @@
 		<div class="header-content-wrapper">
 
 			<div class="logo">
-				<a href="index.html" class="full-block-link"></a>
-				<img loading="lazy" src="img/logo-eye.png" alt="Seosight">
-				<div class="logo-text">
-					<div class="logo-title">Codemode</div>
-				</div>
+				<a href="index.php" class="full-block-link"></a>
+				<img loading="lazy" width="200" src="img/logo-eye.png" alt="GlobalProbes">
+				
 			</div>
 
 			<nav id="primary-menu" class="primary-menu">
@@ -134,11 +132,11 @@
 					</li>
 
 					<li class="">
-						<a href="03_services.html">Courses</a>
+						<a href="03_services.html">Services</a>
 						<ul class="dropdown">
 							<li class="megamenu-item-info">
-								<h5 class="megamenu-item-info-title">List of Courses</h5>
-								<p class="megamenu-item-info-text">Choose a Course</p>
+								<h5 class="megamenu-item-info-title">List of Services</h5>
+								<p class="megamenu-item-info-text">Choose a Service</p>
 							</li>
 							<li class="hover-ver2">
 								<a href="web-development.php"><i class="seoicon-pin-map"></i>
@@ -146,20 +144,34 @@
 								</a>
 							</li>
 							<li class="hover-ver2">
-								<a href="app-development.php"><i class="seoicon-mail-send"></i>
-									App Development
+								<a href="digital-marketing.php"><i class="seoicon-mail-send"></i>
+									Digital Marketing
 								</a>
 							</li>
-							
+							<li class="hover-ver2">
+								<a href="seo-content.php"><i class="seoicon-mail-send"></i>
+									SEO Content
+								</a>
+							</li>
+							<li class="hover-ver2">
+								<a href="academic-content.php"><i class="seoicon-mail-send"></i>
+									Academic Content
+								</a>
+							</li>
+							<li class="hover-ver2">
+								<a href="online-tutoring.php"><i class="seoicon-mail-send"></i>
+									Online Tutoring
+								</a>
+							</li>
 						</ul>
 					</li>
 
                     <li class="">
-						<a href="pricing.php">Pricing</a>
+						<a href="./blog.php">Blogs</a>
 					</li>
 					
 					<li class="">
-						<a href="14_blog.html">Hire Talent</a>
+						<a href="about.php">About</a>
 					</li>
 
 					<li class="">
@@ -168,14 +180,7 @@
 				</ul>
 			</nav>
 
-			<ul class="nav-add">
-
-				<li class="search search_main">
-					<a href="#" class="js-open-search">
-						<i class="seoicon-loupe"></i>
-					</a>
-				</li>
-			</ul>
+			
 
 			<div class="user-menu open-overlay">
 				<a href="#" class="user-menu-content  js-open-aside">
